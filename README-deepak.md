@@ -17,3 +17,5 @@ To Run: python app.py
     .gitignore
 
 1. i want to understand airflow source code. I am new. From where i should start
+### 5. **Start with the `airflow/__init__.py` File**
+The `airflow/__init__.py` file will give you insight into the main entry points for the Airflow package. You'll see how Airflow is initialized and how different modules are imported and structured.

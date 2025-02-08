@@ -15,3 +15,6 @@ To Run: python app.py
         index.html
     app.py
     .gitignore
+
+Branches:
+try_v1.0 - just going through the code
